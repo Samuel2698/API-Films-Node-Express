@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-project",
+  "version": "1.0.0",
+  "description": "curso del midu pa aprendé express",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "midu"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "zod": "3.22.4"
+  }
+}
